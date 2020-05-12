@@ -1,7 +1,18 @@
 
 # dynamicly (track expenses server)
 
+### Clone
 
+- Clone this repo to your local machine using `https://github.com/GoTechs/expenses_tracker_server.git`
+
+### Built With:
+ES6
+Node.js
+Express
+Mongoose
+MongoDB
+babel
+loadash
 
 ### Setup
 

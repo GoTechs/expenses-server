@@ -6,13 +6,13 @@
 - Clone this repo to your local machine using `https://github.com/GoTechs/expenses_tracker_server.git`
 
 ### Built With:
-ES6
-Node.js
-Express
-Mongoose
-MongoDB
-babel
-loadash
+*ES6
+*Node.js
+*Express
+*Mongoose
+*MongoDB
+*babel
+*loadash
 
 ### Setup
 
@@ -56,6 +56,6 @@ PORT : port to run the server (default value: 8080 )
  * you must see "listening on 8080".
  * The server restart due to changes.
  * You will also see any lint errors in the console.
- ```
+ 
 
  

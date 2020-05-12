@@ -3,7 +3,7 @@
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/GoTechs/expenses_tracker_server.git`
+- Clone this repo to your local machine using `https://github.com/GoTechs/expenses-server.git`
 
 ### Built With:
 *ES6
@@ -20,7 +20,7 @@
 
 ### Step 1
 
-- 👯 Clone this repo to your local machine using : ```git clone https://github.com/GoTechs/expenses_tracker_server.git```
+- 👯 Clone this repo to your local machine using : ```git clone https://github.com/GoTechs/expenses-server.git```
 
 ### Step 2
 
